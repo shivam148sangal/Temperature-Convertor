@@ -2,21 +2,25 @@
 A simple Interactive Python Temperature Converter between Celsius, Fahrenheit, and Kelvin with an interactive menu.
 This project is beginner-friendly and demonstrates the use of functions, loops, error handling, and user interaction.
 
-✨ Features
+---
 
-Convert between Celsius ↔ Fahrenheit
+## ✨ Features
 
-Convert between Celsius ↔ Kelvin
+- **Convert between Celsius ↔ Fahrenheit**
 
-Convert between Fahrenheit ↔ Kelvin
+- **Convert between Celsius ↔ Kelvin**
 
-User-friendly menu-driven interface
+- **Convert between Fahrenheit ↔ Kelvin**
 
-Handles invalid inputs gracefully
+  **User-friendly menu-driven interface**
 
-Adds smooth delay effects for a better experience
+- **Handles invalid inputs gracefully**
 
-📌 Menu Options
+- **Adds smooth delay effects for a better experience**
+
+---
+
+## 📌 Menu Options
 1. Celsius to Fahrenheit
 2. Fahrenheit to Celsius
 3. Celsius to Kelvin
